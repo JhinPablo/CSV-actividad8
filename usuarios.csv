@@ -1,0 +1,11 @@
+idUsuario,nombre,edad,telefono,sexo,telefono_movil,email
+1,John Doe,25,123456789,M,987654321,johndoe@example.com
+2,Jane Smith,30,234567890,F,876543210,janesmith@example.com
+3,Michael Johnson,35,345678901,M,765432109,michaeljohnson@example.com
+4,Emily Davis,28,456789012,F,654321098,emilydavis@example.com
+5,Chris Brown,40,567890123,M,543210987,chrisbrown@example.com
+6,Patricia Wilson,32,678901234,F,432109876,patriciawilson@example.com
+7,Robert Miller,45,789012345,M,321098765,robertmiller@example.com
+8,Linda Martinez,27,890123456,F,210987654,lindamartinez@example.com
+9,James Anderson,38,901234567,M,109876543,jamesanderson@example.com
+10,Barbara Thompson,41,012345678,F,098765432,barbarathompson@example.com
