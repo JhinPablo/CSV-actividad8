@@ -1,24 +1,24 @@
-idPersona,nombre,idPais
-d1,Christopher Nolan,1
-d2,Steven Spielberg,1
-d3,Sofia Coppola,1
-d4,Quentin Tarantino,1
-d5,Greta Gerwig,1
-d6,Francis Ford Coppola,1
-d7,Martin Scorsese,1
-d8,Anne Fletcher,1
-d9,Ron Clements,1
-d10,John Musker,1
-d11,Gil Junger,1
-d12,Tony Bancroft,1
-d13,Barry Cook,1
-u1,John Doe,2
-u2,Jane Smith,2
-u3,Michael Johnson,3
-u4,Emily Davis,4
-u5,Chris Brown,5
-u6,Patricia Wilson,6
-u7,Robert Miller,7
-u8,Linda Martinez,8
-u9,James Anderson,9
-u10,Barbara Thompson,10
+id,nombre,tipo,idPais
+d1,Christopher Nolan,Director,1
+d2,Steven Spielberg,Director,1
+d3,Sofia Coppola,Director,1
+d4,Quentin Tarantino,Director,1
+d5,Greta Gerwig,Director,1
+d6,Francis Ford Coppola,Director,1
+d7,Martin Scorsese,Director,1
+d8,Anne Fletcher,Director,1
+d9,Ron Clements,Director,1
+d10,John Musker,Director,1
+d11,Gil Junger,Director,1
+d12,Tony Bancroft,Director,1
+d13,Barry Cook,Director,1
+u1,John Doe,Usuario,2
+u2,Jane Smith,Usuario,2
+u3,Michael Johnson,Usuario,3
+u4,Emily Davis,Usuario,4
+u5,Chris Brown,Usuario,5
+u6,Patricia Wilson,Usuario,6
+u7,Robert Miller,Usuario,7
+u8,Linda Martinez,Usuario,8
+u9,James Anderson,Usuario,9
+u10,Barbara Thompson,Usuario,10
