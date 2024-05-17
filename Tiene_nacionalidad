@@ -1,24 +1,24 @@
 idPersona,nombre,idPais
-1,Christopher Nolan,1
-2,Steven Spielberg,1
-3,Sofia Coppola,1
-4,Quentin Tarantino,1
-5,Greta Gerwig,1
-6,Francis Ford Coppola,1
-7,Martin Scorsese,1
-8,Anne Fletcher,1
-9,Ron Clements,1
-10,John Musker,1
-11,Gil Junger,1
-12,Tony Bancroft,1
-13,Barry Cook,1
-14,John Doe,2
-15,Jane Smith,2
-16,Michael Johnson,3
-17,Emily Davis,4
-18,Chris Brown,5
-19,Patricia Wilson,6
-20,Robert Miller,7
-21,Linda Martinez,8
-22,James Anderson,9
-23,Barbara Thompson,10
+d1,Christopher Nolan,1
+d2,Steven Spielberg,1
+d3,Sofia Coppola,1
+d4,Quentin Tarantino,1
+d5,Greta Gerwig,1
+d6,Francis Ford Coppola,1
+d7,Martin Scorsese,1
+d8,Anne Fletcher,1
+d9,Ron Clements,1
+d10,John Musker,1
+d11,Gil Junger,1
+d12,Tony Bancroft,1
+d13,Barry Cook,1
+u1,John Doe,2
+u2,Jane Smith,2
+u3,Michael Johnson,3
+u4,Emily Davis,4
+u5,Chris Brown,5
+u6,Patricia Wilson,6
+u7,Robert Miller,7
+u8,Linda Martinez,8
+u9,James Anderson,9
+u10,Barbara Thompson,10
