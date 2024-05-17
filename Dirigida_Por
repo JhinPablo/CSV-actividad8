@@ -1,14 +1,14 @@
-título, nombre_director
-Inception, Christopher Nolan
-Jurassic Park, Steven Spielberg
-Lost in Translation, Sofia Coppola
-Pulp Fiction, Quentin Tarantino
-Lady Bird, Greta Gerwig
-The Godfather, Francis Ford Coppola
-Goodfellas, Martin Scorsese
-Kill Bill: Vol. 1, Quentin Tarantino
-The Proposal, Anne Fletcher
-Hercules, Ron Clements
-The Princess and the Frog, John Musker
-10 Things I Hate About You, Gil Junger
-Mulan, Tony Bancroft
+idPelicula,	idDirector
+101,	1
+102,	2
+103,	3
+104,	4
+105,	5
+106,	6
+107,	7
+108,	4
+109,	8
+110,	9
+111,	10
+112,	11
+113,	12
