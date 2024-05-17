@@ -1,11 +1,11 @@
 idUsuario,idContenido,tipo,fecha
-1,101,Me gusta,2023-05-01
-2,102,Me encanta,2023-05-02
-3,103,No me gusta,2023-05-03
-4,201,Me gusta,2023-05-04
-5,202,Me encanta,2023-05-05
-6,104,Me gusta,2023-05-06
-7,105,Me encanta,2023-05-07
-8,106,No me gusta,2023-05-08
-9,107,Me gusta,2023-05-09
-10,108,Me encanta,2023-05-10
+u1,101,Me gusta,2023-05-01
+u2,102,Me encanta,2023-05-02
+u3,103,No me gusta,2023-05-03
+u4,201,Me gusta,2023-05-04
+u5,202,Me encanta,2023-05-05
+u6,104,Me gusta,2023-05-06
+u7,105,Me encanta,2023-05-07
+u8,106,No me gusta,2023-05-08
+u9,107,Me gusta,2023-05-09
+u10,108,Me encanta,2023-05-10
