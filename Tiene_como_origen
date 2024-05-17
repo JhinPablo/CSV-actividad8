@@ -1,0 +1,24 @@
+id,tipo,nombre,idPais
+101,Pelicula,Inception,1
+102,Pelicula,Jurassic Park,1
+103,Pelicula,Lost in Translation,8
+104,Pelicula,Pulp Fiction,1
+105,Pelicula,Lady Bird,1
+106,Pelicula,The Godfather,1
+107,Pelicula,Goodfellas,1
+108,Pelicula,Kill Bill: Vol. 1,1
+109,Pelicula,The Proposal,1
+110,Pelicula,Hercules,1
+111,Pelicula,The Princess and the Frog,1
+112,Pelicula,10 Things I Hate About You,1
+113,Pelicula,Mulan,1
+201,Serie,Stranger Things,1
+202,Serie,The Crown,2
+203,Serie,Black Mirror,1
+204,Serie,The Mandalorian,1
+205,Serie,Game of Thrones,1
+206,Serie,Friends,1
+207,Serie,The Office,1
+208,Serie,Breaking Bad,1
+209,Serie,The Simpsons,1
+210,Serie,Sherlock,2
