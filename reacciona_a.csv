@@ -1,11 +1,11 @@
-idUsuario,idContenido,tipo,fecha
-1,101,Me gusta,2023-05-01
-2,102,Me encanta,2023-05-02
-3,103,No me gusta,2023-05-03
-4,201,Me gusta,2023-05-04
-5,202,Me encanta,2023-05-05
-6,104,Me gusta,2023-05-06
-7,105,Me encanta,2023-05-07
-8,106,No me gusta,2023-05-08
-9,107,Me gusta,2023-05-09
-10,108,Me encanta,2023-05-10
+(u:Usuario {idUsuario: 1})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 101})
+(u:Usuario {idUsuario: 2})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 102})
+(u:Usuario {idUsuario: 3})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 103})
+(u:Usuario {idUsuario: 4})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 104})
+(u:Usuario {idUsuario: 5})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 105})
+(u:Usuario {idUsuario: 6})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 106})
+(u:Usuario {idUsuario: 7})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 107})
+(u:Usuario {idUsuario: 8})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 108})
+(u:Usuario {idUsuario: 9})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 109})
+(u:Usuario {idUsuario: 10})-[:REACCIONA_A {tipo: "Me gusta"}]->(pe:Pelicula {idPelicula: 110})
+
